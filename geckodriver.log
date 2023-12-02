@@ -1,0 +1,791 @@
+1693744837297	geckodriver	INFO	Listening on 127.0.0.1:52907
+1693744840332	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52908" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zin\\AppData\\Local\\Temp\\rust_mozprofileaI4n3O"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693744840533	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693744840583	Marionette	INFO	Listening on port 52919
+WebDriver BiDi listening on ws://127.0.0.1:52908
+Read port: 52919
+1693744840729	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52908/devtools/browser/d27f95d6-8d2e-4fcb-abaf-caf16a3695ac
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+1693744865125	Marionette	INFO	Stopped listening on port 52919
+Dynamically enable window occlusion 1
+1693744866385	geckodriver	INFO	Listening on 127.0.0.1:52981
+1693744869414	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52982" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zin\\AppData\\Local\\Temp\\rust_mozprofileNBR2Nv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693744869599	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693744869645	Marionette	INFO	Listening on port 52989
+WebDriver BiDi listening on ws://127.0.0.1:52982
+Read port: 52989
+1693744869774	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52982/devtools/browser/8df9d1b3-55a0-4963-9ec5-b22d7923c829
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.baidu.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.baidu.com."
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:907:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:812:38
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:907:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:812:38
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:907:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:812:38
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:907:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:812:38
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:907:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:812:38
+
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:907:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:812:38
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:907:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:812:38
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:907:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:812:38
+
+console.error: (new TypeError("this.node is null", "resource://devtools/client/inspector/fonts/fonts.js", 811))
+TypeError: this.node is null: onNewNode@resource://devtools/client/inspector/fonts/fonts.js:811:7
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+handleSelectionChange@resource://devtools/client/inspector/toolsidebar.js:215:10
+onTabChanged/<@resource://devtools/client/shared/components/tabs/TabBar.js:311:22
+callCallback@resource://devtools/client/shared/vendor/react-dom.js:12127:12
+commitUpdateEffects@resource://devtools/client/shared/vendor/react-dom.js:12166:19
+commitUpdateQueue@resource://devtools/client/shared/vendor/react-dom.js:12154:22
+commitLifeCycles@resource://devtools/client/shared/vendor/react-dom.js:12964:28
+commitAllLifeCycles@resource://devtools/client/shared/vendor/react-dom.js:14174:23
+commitRoot@resource://devtools/client/shared/vendor/react-dom.js:14380:28
+completeRoot/<@resource://devtools/client/shared/vendor/react-dom.js:15731:15
+unstable_runWithPriority@resource://devtools/client/shared/vendor/react.js:617:12
+completeRoot@resource://devtools/client/shared/vendor/react-dom.js:15730:27
+performWorkOnRoot@resource://devtools/client/shared/vendor/react-dom.js:15659:21
+performWork@resource://devtools/client/shared/vendor/react-dom.js:15567:24
+performSyncWork@resource://devtools/client/shared/vendor/react-dom.js:15541:14
+interactiveUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15808:7
+interactiveUpdates@resource://devtools/client/shared/vendor/react-dom.js:1901:10
+dispatchInteractiveEvent@resource://devtools/client/shared/vendor/react-dom.js:4328:21
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:907:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:812:38
+
+console.error: (new TypeError("this.nodeHierarchy[this.currentIndex] is undefined", "resource://devtools/client/inspector/breadcrumbs.js", 804))
+TypeError: this.nodeHierarchy[this.currentIndex] is undefined: scroll@resource://devtools/client/inspector/breadcrumbs.js:804:23
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+onOverflow@resource://devtools/client/inspector/breadcrumbs.js:205:10
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:907:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:812:38
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://yy.jdyfy.com."
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:907:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:812:38
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:907:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:812:38
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:907:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:812:38
+
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:907:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:812:38
+
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+JavaScript warning: https://hm.baidu.com/hm.js?a49778e5b135106a4771f91c0fd2dabc, line 47: Script terminated by timeout at:
+a@https://hm.baidu.com/hm.js?a49778e5b135106a4771f91c0fd2dabc:47:124
+
+JavaScript warning: https://addons.mozilla.org/static-frontend/amo-252c24fdda3581ee6bf1.js, line 7: Script terminated by timeout at:
+eo/<@https://addons.mozilla.org/static-frontend/amo-252c24fdda3581ee6bf1.js:7:5052
+t@https://addons.mozilla.org/static-frontend/amo-252c24fdda3581ee6bf1.js:7:4912
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1693747837833	Marionette	INFO	Stopped listening on port 52989
+Dynamically enable window occlusion 1
+arionette" "--remote-debugging-port" "53320" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zin\\AppData\\Local\\Temp\\rust_mozprofileM3ZKor"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693745630502	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693745630546	Marionette	INFO	Listening on port 53327
+WebDriver BiDi listening on ws://127.0.0.1:53320
+Read port: 53327
+1693745630677	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53320/devtools/browser/706a21ce-bc00-4265-9a06-342f3d412691
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://yy.jdyfy.com."
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1693745726121	Marionette	INFO	Stopped listening on port 53327
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:907:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:812:38
+
+console.warn: services.settings: main/normandy-recipes-capabilities sync interrupted by shutdown
+console.warn: services.settings: main/language-dictionaries sync interrupted by shutdown
+console.warn: services.settings: main/password-recipes sync interrupted by shutdown
+console.warn: services.settings: main/password-rules sync interrupted by shutdown
+console.warn: services.settings: main/translations-identification-models sync interrupted by shutdown
+console.warn: services.settings: main/translations-wasm sync interrupted by shutdown
+console.warn: services.settings: main/search-config sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/nimbus-desktop-experiments getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1693746180584	geckodriver	INFO	Listening on 127.0.0.1:53553
+1693746183610	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53554" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zin\\AppData\\Local\\Temp\\rust_mozprofileNircmE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693746183792	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693746183837	Marionette	INFO	Listening on port 53561
+WebDriver BiDi listening on ws://127.0.0.1:53554
+Read port: 53561
+1693746183969	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53554/devtools/browser/06079dd4-03ae-474d-a0aa-a41af9e389d0
+1693746196588	Marionette	INFO	Stopped listening on port 53561
+Dynamically enable window occlusion 1
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+1693746206351	geckodriver	INFO	Listening on 127.0.0.1:53598
+1693746209375	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53599" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zin\\AppData\\Local\\Temp\\rust_mozprofilechVFru"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693746209552	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693746209597	Marionette	INFO	Listening on port 53606
+WebDriver BiDi listening on ws://127.0.0.1:53599
+Read port: 53606
+1693746209725	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53599/devtools/browser/e9e07898-5bf3-4ebe-b81f-ceb3c58e9c83
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://yy.jdyfy.com."
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1693746550629	Marionette	INFO	Stopped listening on port 53606
+Dynamically enable window occlusion 1
+1693746667531	geckodriver	INFO	Listening on 127.0.0.1:53826
+1693746670572	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53827" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zin\\AppData\\Local\\Temp\\rust_mozprofileDfgROs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693746670752	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693746670797	Marionette	INFO	Listening on port 53834
+WebDriver BiDi listening on ws://127.0.0.1:53827
+Read port: 53834
+1693746670925	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53827/devtools/browser/8d5af08c-c8e4-4ead-946e-a8af66f207fe
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+1693747045124	Marionette	INFO	Stopped listening on port 53834
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53888" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zin\\AppData\\Local\\Temp\\rust_mozprofileAoPb6o"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693746781043	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693746781090	Marionette	INFO	Listening on port 53896
+WebDriver BiDi listening on ws://127.0.0.1:53888
+Read port: 53896
+1693746781240	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53888/devtools/browser/562ccf47-beaf-4037-a9ca-f9d4f990a46d
+1693746785403	Marionette	INFO	Stopped listening on port 53896
+Dynamically enable window occlusion 1
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+1693747040305	geckodriver	INFO	Listening on 127.0.0.1:54010
+1693747043329	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54011" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zin\\AppData\\Local\\Temp\\rust_mozprofileNFTUZm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693747043516	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693747043562	Marionette	INFO	Listening on port 54018
+WebDriver BiDi listening on ws://127.0.0.1:54011
+Read port: 54018
+1693747043706	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54011/devtools/browser/15760df7-b09b-4eb4-a676-531befd2fab4
+1693747056555	Marionette	INFO	Stopped listening on port 54018
+Dynamically enable window occlusion 1
+1693747082422	geckodriver	INFO	Listening on 127.0.0.1:54062
+1693747085459	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54063" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zin\\AppData\\Local\\Temp\\rust_mozprofile0o5itq"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693747085640	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693747085684	Marionette	INFO	Listening on port 54070
+WebDriver BiDi listening on ws://127.0.0.1:54063
+Read port: 54070
+1693747085813	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54063/devtools/browser/f79586f4-4779-4537-a8f3-079cfce3c616
+1693747094245	Marionette	INFO	Stopped listening on port 54070
+Dynamically enable window occlusion 1
+1693747207476	geckodriver	INFO	Listening on 127.0.0.1:54111
+1693747210507	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54112" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zin\\AppData\\Local\\Temp\\rust_mozprofilenOuNIl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693747210686	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693747210731	Marionette	INFO	Listening on port 54119
+WebDriver BiDi listening on ws://127.0.0.1:54112
+Read port: 54119
+1693747210859	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54112/devtools/browser/c3204e1c-9060-4084-8429-2ae28ede8c81
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://yy.jdyfy.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1693747224835	Marionette	INFO	Stopped listening on port 54119
+Dynamically enable window occlusion 1
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+1693747242834	geckodriver	INFO	Listening on 127.0.0.1:54158
+1693747245862	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54159" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zin\\AppData\\Local\\Temp\\rust_mozprofile463qTK"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693747246042	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693747246087	Marionette	INFO	Listening on port 54166
+WebDriver BiDi listening on ws://127.0.0.1:54159
+Read port: 54166
+1693747246215	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54159/devtools/browser/a61f0137-b680-439d-98e5-a074d67852e9
+1693747253059	Marionette	INFO	Stopped listening on port 54166
+Dynamically enable window occlusion 1
+1693747368268	geckodriver	INFO	Listening on 127.0.0.1:54206
+1693747371306	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54207" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zin\\AppData\\Local\\Temp\\rust_mozprofileEfATxZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693747371486	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693747371530	Marionette	INFO	Listening on port 54215
+WebDriver BiDi listening on ws://127.0.0.1:54207
+Read port: 54215
+1693747371659	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54207/devtools/browser/15cd7389-9274-4267-8ba0-1ee4abe7f714
+1693747389497	Marionette	INFO	Stopped listening on port 54215
+Dynamically enable window occlusion 1
+1693747438698	geckodriver	INFO	Listening on 127.0.0.1:54319
+1693747441719	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54320" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zin\\AppData\\Local\\Temp\\rust_mozprofileMxBoHe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693747441899	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693747441944	Marionette	INFO	Listening on port 54328
+WebDriver BiDi listening on ws://127.0.0.1:54320
+Read port: 54328
+1693747442089	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54320/devtools/browser/ac492fec-da26-4adb-8f29-8dce9f4226f2
+1693747448906	Marionette	INFO	Stopped listening on port 54328
+Dynamically enable window occlusion 1
+1693747564546	geckodriver	INFO	Listening on 127.0.0.1:54375
+1693747567579	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54376" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zin\\AppData\\Local\\Temp\\rust_mozprofileK2UiRe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693747567758	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693747567803	Marionette	INFO	Listening on port 54383
+WebDriver BiDi listening on ws://127.0.0.1:54376
+Read port: 54383
+1693747567931	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54376/devtools/browser/9633945c-eead-43e3-b63d-e646abdbcdc2
+1693747574518	Marionette	INFO	Stopped listening on port 54383
+Dynamically enable window occlusion 1
+1693747714050	geckodriver	INFO	Listening on 127.0.0.1:54419
+1693747717091	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54420" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zin\\AppData\\Local\\Temp\\rust_mozprofileNSBQV6"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693747717274	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693747717319	Marionette	INFO	Listening on port 54427
+WebDriver BiDi listening on ws://127.0.0.1:54420
+Read port: 54427
+1693747717447	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54420/devtools/browser/b9a29f2d-da0f-4812-9de4-6a59147e9021
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://yy.jdyfy.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1693747837211	Marionette	INFO	Stopped listening on port 54427
+Dynamically enable window occlusion 1
+1693747842713	geckodriver	INFO	Listening on 127.0.0.1:54497
+1693747845739	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54498" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zin\\AppData\\Local\\Temp\\rust_mozprofileKvYiyg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693747845921	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693747845966	Marionette	INFO	Listening on port 54505
+WebDriver BiDi listening on ws://127.0.0.1:54498
+Read port: 54505
+1693747846094	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54498/devtools/browser/f463073f-e143-45b4-b07a-5e201180a74e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://yy.jdyfy.com."
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2401))
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1693747892436	Marionette	INFO	Stopped listening on port 54505
+Dynamically enable window occlusion 1
+1693747895287	geckodriver	INFO	Listening on 127.0.0.1:54563
+1693747898300	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54564" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zin\\AppData\\Local\\Temp\\rust_mozprofiledd1W85"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693747898483	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693747898528	Marionette	INFO	Listening on port 54571
+WebDriver BiDi listening on ws://127.0.0.1:54564
+Read port: 54571
+1693747898656	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54564/devtools/browser/6a7009cd-e26d-4c03-a3b9-e636cfbb4a6a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://yy.jdyfy.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1693749074661	Marionette	INFO	Stopped listening on port 54571
+Dynamically enable window occlusion 1
+osts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zin\\AppData\\Local\\Temp\\rust_mozprofileo2hWez"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693747981438	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693747981482	Marionette	INFO	Listening on port 54657
+WebDriver BiDi listening on ws://127.0.0.1:54628
+Read port: 54657
+1693747981610	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54628/devtools/browser/ac74604e-faa1-47ce-ab32-9338d1d7c027
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://yy.jdyfy.com."
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1693748128249	Marionette	INFO	Stopped listening on port 54657
+Dynamically enable window occlusion 1
+1693748130685	geckodriver	INFO	Listening on 127.0.0.1:54716
+1693748133706	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54717" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zin\\AppData\\Local\\Temp\\rust_mozprofileeBfhY3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693748133889	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693748133933	Marionette	INFO	Listening on port 54724
+WebDriver BiDi listening on ws://127.0.0.1:54717
+Read port: 54724
+1693748134062	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54717/devtools/browser/f8cbacb7-4323-4e51-957f-78473f91f478
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://yy.jdyfy.com."
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new TypeError("null has no properties", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: null has no properties: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2401))
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1693748411324	Marionette	INFO	Stopped listening on port 54724
+Dynamically enable window occlusion 1
+1693748412766	geckodriver	INFO	Listening on 127.0.0.1:54804
+1693748415785	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54805" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zin\\AppData\\Local\\Temp\\rust_mozprofileIxxsMk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693748415968	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693748416012	Marionette	INFO	Listening on port 54812
+WebDriver BiDi listening on ws://127.0.0.1:54805
+Read port: 54812
+1693748416141	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54805/devtools/browser/addd6f28-a745-4181-9a06-a53964ec1075
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://yy.jdyfy.com."
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2401))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2401))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2401))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1693748598582	Marionette	INFO	Stopped listening on port 54812
+Dynamically enable window occlusion 1
+1693748600674	geckodriver	INFO	Listening on 127.0.0.1:54889
+1693748603691	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54890" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zin\\AppData\\Local\\Temp\\rust_mozprofileD4kxXc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693748603873	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693748603918	Marionette	INFO	Listening on port 54898
+WebDriver BiDi listening on ws://127.0.0.1:54890
+Read port: 54898
+1693748604046	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54890/devtools/browser/5bc63573-44c6-4e6b-b2a1-32201e76e390
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://yy.jdyfy.com."
+1693748622193	Marionette	INFO	Stopped listening on port 54898
+Dynamically enable window occlusion 1
+1693748623436	geckodriver	INFO	Listening on 127.0.0.1:54939
+1693748626451	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54940" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zin\\AppData\\Local\\Temp\\rust_mozprofileOeo1sW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693748626631	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693748626675	Marionette	INFO	Listening on port 54947
+WebDriver BiDi listening on ws://127.0.0.1:54940
+Read port: 54947
+1693748626803	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54940/devtools/browser/c1f2cf81-8ed2-46de-826f-0871ef201981
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://yy.jdyfy.com."
+1693748639980	Marionette	INFO	Stopped listening on port 54947
+Dynamically enable window occlusion 1
+1693748641598	geckodriver	INFO	Listening on 127.0.0.1:54996
+1693748644625	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54997" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zin\\AppData\\Local\\Temp\\rust_mozprofiles3lidE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693748644806	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693748644851	Marionette	INFO	Listening on port 55004
+WebDriver BiDi listening on ws://127.0.0.1:54997
+Read port: 55004
+1693748644986	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54997/devtools/browser/c7e5908d-8dd2-4cb8-ac56-5ff578411768
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://yy.jdyfy.com."
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1693749391373	Marionette	INFO	Stopped listening on port 55004
+Dynamically enable window occlusion 1
+osts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zin\\AppData\\Local\\Temp\\rust_mozprofileWpEosB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693749260685	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693749260730	Marionette	INFO	Listening on port 55439
+WebDriver BiDi listening on ws://127.0.0.1:55432
+Read port: 55439
+1693749260861	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55432/devtools/browser/d3b74916-0eb9-483f-9f75-a76b8c0df7da
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://yy.jdyfy.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1693749501082	Marionette	INFO	Stopped listening on port 55439
+Dynamically enable window occlusion 1
+1693749502801	geckodriver	INFO	Listening on 127.0.0.1:55507
+1693749505811	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55508" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zin\\AppData\\Local\\Temp\\rust_mozprofileaT3RQg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693749505994	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693749506039	Marionette	INFO	Listening on port 55515
+WebDriver BiDi listening on ws://127.0.0.1:55508
+Read port: 55515
+1693749506167	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55508/devtools/browser/18c866e1-dadf-4bf6-b9c6-fee1815a0e82
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://yy.jdyfy.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1693749641578	Marionette	INFO	Stopped listening on port 55515
+Dynamically enable window occlusion 1
+1693749643072	geckodriver	INFO	Listening on 127.0.0.1:55575
+1693749646086	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55576" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zin\\AppData\\Local\\Temp\\rust_mozprofile13ZVtt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693749646272	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693749646317	Marionette	INFO	Listening on port 55585
+WebDriver BiDi listening on ws://127.0.0.1:55576
+Read port: 55585
+1693749646445	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55576/devtools/browser/ce40c7bb-b1cb-47ed-ade1-2be0ec2aae48
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://yy.jdyfy.com."
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:309:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2401))
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1693750067332	Marionette	INFO	Stopped listening on port 55585
+Dynamically enable window occlusion 1
+1693750077096	geckodriver	INFO	Listening on 127.0.0.1:55654
+1693750080112	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55655" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zin\\AppData\\Local\\Temp\\rust_mozprofileCtDczP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693750080295	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693750080341	Marionette	INFO	Listening on port 55663
+WebDriver BiDi listening on ws://127.0.0.1:55655
+Read port: 55663
+1693750080469	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55655/devtools/browser/086f8a19-de8d-4a86-aecf-fed42f5104a3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://yy.jdyfy.com."
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://yy.jdyfy.com."
+1693750110421	Marionette	INFO	Stopped listening on port 55663
+Dynamically enable window occlusion 1
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+1693750110451	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, channelStatus: 2147500036, errorCode: 2, reason: error
+1693750129951	geckodriver	INFO	Listening on 127.0.0.1:55724
+1693750132965	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55725" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zin\\AppData\\Local\\Temp\\rust_mozprofileo31cGj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693750133147	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693750133192	Marionette	INFO	Listening on port 55734
+WebDriver BiDi listening on ws://127.0.0.1:55725
+Read port: 55734
+1693750133320	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55725/devtools/browser/12728be8-acf4-462e-8142-e12f1ca42568
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://yy.jdyfy.com."
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 229))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://yy.jdyfy.com."
+1693750190786	Marionette	INFO	Stopped listening on port 55734
+Dynamically enable window occlusion 1
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+1693750192004	geckodriver	INFO	Listening on 127.0.0.1:55795
+1693750195007	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55796" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zin\\AppData\\Local\\Temp\\rust_mozprofileaPcP9Z"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693750195189	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693750195235	Marionette	INFO	Listening on port 55803
+WebDriver BiDi listening on ws://127.0.0.1:55796
+Read port: 55803
+1693750195364	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55796/devtools/browser/6de89588-24d4-45f6-b34c-ee57e9427287
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://yy.jdyfy.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://yy.jdyfy.com."
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+1693750316836	Marionette	INFO	Stopped listening on port 55803
+Dynamically enable window occlusion 1
+1693819716181	geckodriver	INFO	Listening on 127.0.0.1:50101
+1693819719215	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50102" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zin\\AppData\\Local\\Temp\\rust_mozprofileahAcRD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693819719417	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693819719469	Marionette	INFO	Listening on port 50111
+WebDriver BiDi listening on ws://127.0.0.1:50102
+Read port: 50111
+1693819719616	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50102/devtools/browser/32126fdd-0452-4485-85fe-941c90e88599
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://yy.jdyfy.com."
+1693819764127	Marionette	INFO	Stopped listening on port 50111
+Dynamically enable window occlusion 1
+1693819769324	geckodriver	INFO	Listening on 127.0.0.1:50246
+1693819772349	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50247" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zin\\AppData\\Local\\Temp\\rust_mozprofileOMN4nr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693819772535	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693819772581	Marionette	INFO	Listening on port 59832
+WebDriver BiDi listening on ws://127.0.0.1:50247
+Read port: 59832
+1693819772711	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50247/devtools/browser/a965327c-8eef-4da2-9f47-293b355b4086
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://yy.jdyfy.com."
+console.error: Region.sys.mjs: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 759))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.sys.mjs", 411))
+1693819874467	geckodriver	INFO	Listening on 127.0.0.1:64291
+1693819877500	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64292" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zin\\AppData\\Local\\Temp\\rust_mozprofilektJC9z"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693819877688	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693819877734	Marionette	INFO	Listening on port 64299
+WebDriver BiDi listening on ws://127.0.0.1:64292
+Read port: 64299
+1693819877862	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64292/devtools/browser/68dec792-a807-46db-8a75-f6e614d9e91e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://yy.jdyfy.com."
+1693819924206	Marionette	INFO	Stopped listening on port 64299
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  Message: StorageError: Storage error: Error: IndexedDB: main/pioneer-study-addons-v1 pruneAttachments() IndexedDB:  execute() The application is shutting down
+  Stack:
+    StorageError@resource://services-settings/RemoteSettingsClient.sys.mjs:153:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:924:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:812:38
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:573:17
+
+console.error: (new Error("IndexedDB: main/pioneer-content-v2 getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1693819926171	geckodriver	INFO	Listening on 127.0.0.1:64428
+1693819929195	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64429" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Zin\\AppData\\Local\\Temp\\rust_mozprofiledNCf3c"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693819929380	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1693819929426	Marionette	INFO	Listening on port 64436
+WebDriver BiDi listening on ws://127.0.0.1:64429
+Read port: 64436
+1693819929563	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64429/devtools/browser/7b822fbf-0e30-4016-9808-7afb4afed6d0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://yy.jdyfy.com."
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1693819980388	Marionette	INFO	Stopped listening on port 64436
+Dynamically enable window occlusion 1
